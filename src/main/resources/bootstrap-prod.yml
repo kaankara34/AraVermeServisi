@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: sales-aegon-ara-verme-servisi
+  cloud:
+    config:
+      uri: **********************************
+
